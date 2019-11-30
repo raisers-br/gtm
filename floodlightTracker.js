@@ -1,6 +1,6 @@
 function(){
   /*version 1.0*/
-  return funtion( src, type, cat, us ){
+  return function( src, type, cat, us ){
   	var custom = {};
     src = src || '6995806';
     
